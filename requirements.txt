@@ -1,4 +1,0 @@
-codecarbon
-pandas
-matplotlib
-psutil
